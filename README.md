@@ -32,20 +32,7 @@ This problem has practical applications in logistics, supply chain management, t
 - **Programming Language:** Python 3.11  
 - **Libraries Used:**  
   - `numpy`  
-  - `random`  
   - `pprint`  
-
-## 🗂️ Repository Structure
-
-```bash
-📁 TSO-Capacitated-Facility-Location-Problem/
-├── 📄 README.md
-├── 📄 heuristic.py               # Greedy heuristic implementation
-├── 📄 local_search.py           # Local search optimization
-├── 📁 instances/                # Test instances used
-├── 📄 results.csv               # Experimental results
-└── 📄 requirements.txt          # Required Python libraries
-```
 
 ## 📊 Instances Used
 
