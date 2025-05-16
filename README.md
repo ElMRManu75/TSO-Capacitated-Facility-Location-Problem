@@ -26,11 +26,6 @@ This problem has practical applications in logistics, supply chain management, t
 
 ## ⚙️ System Specifications
 
-- **Processor:** Intel Core i7-10750H @ 2.60GHz 
-- **RAM:** 16 GB  
-- **Operating System:** Windows 11 Home 64-bit  
-- **Programming Language:** Python 3.11
-   
 - **Processor:** Intel(R) Celeron(R) N4020 CPU @ 1.10GHz   1.10 GHz
 - **RAM** 4.00 GB 
 - **System type:** 64-bit operating system, x64-based processor
