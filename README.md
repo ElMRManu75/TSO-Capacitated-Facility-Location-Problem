@@ -32,7 +32,6 @@ This problem has practical applications in logistics, supply chain management, t
 - **Programming Language:** Python 3.11  
 - **Libraries Used:**  
   - `numpy`  
-  - `pprint`  
 
 ## 📊 Instances Used
 
